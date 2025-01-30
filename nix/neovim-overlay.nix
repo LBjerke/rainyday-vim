@@ -41,6 +41,7 @@ with final.pkgs.lib; let
     cmp-nvim-lua # neovim lua API as completion source | https://github.com/hrsh7th/cmp-nvim-lua/
     cmp-cmdline # cmp command line suggestions
     cmp-cmdline-history # cmp command line history suggestions
+    harpoon
     # ^ nvim-cmp extensions
     # git integration plugins
     diffview-nvim # https://github.com/sindrets/diffview.nvim/
@@ -87,6 +88,10 @@ with final.pkgs.lib; let
     # language servers, etc.
     lua-language-server
     nil # nix LSP
+  haskell.compiler.ghc910 # haskell compiler 9.10.1
+  haskell.packages.ghc910.haskell-language-server # lsp 9.10.1
+  haskellPackages.cabal-fmt
+  ormolu
   ];
 in {
   # This is the neovim derivation
