@@ -92,6 +92,10 @@ with final.pkgs.lib; let
   haskell.packages.ghc981.haskell-language-server # lsp 9.10.1
   haskellPackages.cabal-fmt
   ormolu
+  stack
+  cabal-install
+  botan3
+
   ];
 in {
   # This is the neovim derivation
