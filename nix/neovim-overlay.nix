@@ -94,7 +94,16 @@ with final.pkgs.lib; let
   ormolu
   stack
   cabal-install
-  botan3
+  llvmPackages_15.libllvm 
+  cacert 
+  git 
+  hostname 
+  z3 
+  botan3 
+  pkg-config 
+  zlib 
+  blas  
+  lapack
 
   ];
 in {
