@@ -88,8 +88,8 @@ with final.pkgs.lib; let
     # language servers, etc.
     lua-language-server
     nil # nix LSP
-  haskell.compiler.ghc910 # haskell compiler 9.10.1
-  haskell.packages.ghc910.haskell-language-server # lsp 9.10.1
+  haskell.compiler.ghc981 # haskell compiler 9.10.1
+  haskell.packages.ghc981.haskell-language-server # lsp 9.10.1
   haskellPackages.cabal-fmt
   ormolu
   ];
