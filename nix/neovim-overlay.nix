@@ -41,7 +41,8 @@ with final.pkgs.lib; let
     cmp-nvim-lua # neovim lua API as completion source | https://github.com/hrsh7th/cmp-nvim-lua/
     cmp-cmdline # cmp command line suggestions
     cmp-cmdline-history # cmp command line history suggestions
-    harpoon
+    # marks
+    harpoon2
     # ^ nvim-cmp extensions
     # git integration plugins
     diffview-nvim # https://github.com/sindrets/diffview.nvim/
@@ -77,7 +78,10 @@ with final.pkgs.lib; let
     plenary-nvim
     nvim-web-devicons
     vim-repeat
+    # themes
     bamboo-nvim
+    # markdown
+    obsidian-nvim
     # ^ libraries that other plugins depend on
     # bleeding-edge plugins from flake inputs
     # (mkNvimPlugin inputs.wf-nvim "wf.nvim") # (example) keymap hints | https://github.com/Cassin01/wf.nvim
