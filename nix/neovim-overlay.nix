@@ -84,6 +84,7 @@ with final.pkgs.lib; let
     obsidian-nvim
     # opther
     pomo-nvim
+    nvim-notify
     # ^ libraries that other plugins depend on
     # bleeding-edge plugins from flake inputs
     # (mkNvimPlugin inputs.wf-nvim "wf.nvim") # (example) keymap hints | https://github.com/Cassin01/wf.nvim
