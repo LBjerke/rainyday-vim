@@ -1,15 +1,3 @@
-require("pomo").setup({
-  sessions = {
-    pomodoro = {
-      { name = "Work", duration = "25m" },
-      { name = "Short Break", duration = "5m" },
-      { name = "Work", duration = "25m" },
-      { name = "Short Break", duration = "5m" },
-      { name = "Work", duration = "25m" },
-      { name = "Long Break", duration = "15m" },
-    },
-  },
-})
 if vim.g.did_load_lualine_plugin then
   return
 end
@@ -38,6 +26,18 @@ local function extra_mode_status()
   end
   return ''
 end
+require("pomo").setup({
+  sessions = {
+    pomodoro = {
+      { name = "Work",        duration = "25m" },
+      { name = "Short Break", duration = "5m" },
+      { name = "Work",        duration = "25m" },
+      { name = "Short Break", duration = "5m" },
+      { name = "Work",        duration = "25m" },
+      { name = "Long Break",  duration = "15m" },
+    },
+  },
+})
 
 require('lualine').setup {
   globalstatus = true,
@@ -81,24 +81,24 @@ require('lualine').setup {
   --     },
   --   },
   --   lualine_c = {},
-    lualine_x = {
-      function()
-        local ok, pomo = pcall(require, "pomo")
-        if not ok then
-          return ""
-        end
+  lualine_x = {
+    function()
+      local ok, pomo = pcall(require, "pomo")
+      if not ok then
+        return ""
+      end
 
-        local timer = pomo.get_first_to_finish()
-        if timer == nil then
-          return ""
-        end
+      local timer = pomo.get_first_to_finish()
+      if timer == nil then
+        return ""
+      end
 
-        return "󰄉 " .. tostring(timer)
-      end,
-      "encoding",
-      "fileformat",
-      "filetype",
-    },
+      return "󰄉 " .. tostring(timer)
+    end,
+    "encoding",
+    "fileformat",
+    "filetype",
+  },
   --   lualine_y = {},
   --   lualine_z = {},
   -- },
