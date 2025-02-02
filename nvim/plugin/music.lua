@@ -1,5 +1,5 @@
 require("music-controls").setup({
 opts = {
-  default = "%any"
+  default = "%any",
 },
 })
