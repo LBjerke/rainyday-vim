@@ -13,7 +13,7 @@ with lib;
     appName ? null,
     # The Neovim package to wrap
     neovim-unwrapped ? pkgs-wrapNeovim.neovim-unwrapped,
-    plugins ? [], # List of plugins
+    plugins ? [ { name = "music-controls"; url = "https://github.com/AntonVanAssche/music-controls.nvim";}], # List of plugins
     # List of dev plugins (will be bootstrapped) - useful for plugin developers
     # { name = <plugin-name>; url = <git-url>; }
     devPlugins ? [],
