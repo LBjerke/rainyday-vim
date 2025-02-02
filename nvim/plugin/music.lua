@@ -1,1 +1,2 @@
-require("music-controls").setup()
+
+require("music-controls").setup({ opts = { default_player = '%any' , },})
