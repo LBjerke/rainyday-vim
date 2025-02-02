@@ -94,6 +94,25 @@ require('lualine').setup {
       -- (see above)
       { extra_mode_status },
     },
+    lualine_x = {
+      function()
+        local ok, pomo = pcall(require, "pomo")
+        if not ok then
+          print(ok)
+          return ""
+        end
+
+        local timer = pomo.get_first_to_finish()
+        if timer == nil then
+          return ""
+        end
+
+        return "󰄉 " .. tostring(timer)
+      end,
+      "encoding",
+      "fileformat",
+      "filetype",
+    },
   },
   options = {
     theme = 'auto',
@@ -125,25 +144,6 @@ require('lualine').setup {
   --     },
   --   },
   --   lualine_c = {},
-  lualine_x = {
-    function()
-      local ok, pomo = pcall(require, "pomo")
-      if not ok then
-        print(ok)
-        return ""
-      end
-
-      local timer = pomo.get_first_to_finish()
-      if timer == nil then
-        return ""
-      end
-
-      return "󰄉 " .. tostring(timer)
-    end,
-    "encoding",
-    "fileformat",
-    "filetype",
-  },
   --   lualine_y = {},
   --   lualine_z = {},
   -- },
