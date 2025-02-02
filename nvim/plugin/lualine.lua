@@ -27,6 +27,11 @@ local function extra_mode_status()
   return ''
 end
 require("pomo").setup({
+  notifiers = {
+    {
+      sticky = false
+    },
+  },
   sessions = {
     pomodoro = {
       { name = "Work",        duration = "25m" },
@@ -83,18 +88,7 @@ require('lualine').setup {
   --   lualine_c = {},
   lualine_x = {
     function()
-      local pomo = require("pomo").setup({
-        sessions = {
-          pomodoro = {
-            { name = "Work",        duration = "25m" },
-            { name = "Short Break", duration = "5m" },
-            { name = "Work",        duration = "25m" },
-            { name = "Short Break", duration = "5m" },
-            { name = "Work",        duration = "25m" },
-            { name = "Long Break",  duration = "15m" },
-          },
-        },
-      })
+      local pomo = require("pomo")
 
       local timer = pomo.get_first_to_finish()
       if timer == nil then
