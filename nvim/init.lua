@@ -14,6 +14,7 @@ if fn.has('termguicolors') then
   opt.termguicolors = true
 end
 
+
 -- See :h <option> to see what the options do
 
 -- Search down into subfolders
