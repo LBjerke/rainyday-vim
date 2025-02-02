@@ -83,10 +83,7 @@ require('lualine').setup {
   --   lualine_c = {},
   lualine_x = {
     function()
-      local ok, pomo = pcall(require, "pomo")
-      if not ok then
-        return ""
-      end
+      local pomo = require("pomo")
 
       local timer = pomo.get_first_to_finish()
       if timer == nil then
