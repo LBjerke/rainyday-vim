@@ -50,7 +50,7 @@ with lib;
       runtime = {};
     };
 
-    externalPackages = extraPackages ++ (optionals withSqlite [pkgs.sqlite pkgs.playerctl]);
+    externalPackages = extraPackages ++ (optionals withSqlite [pkgs.sqlite]);
 
     # Map all plugins to an attrset { plugin = <plugin>; config = <config>; optional = <tf>; ... }
     normalizedPlugins = map (x:
