@@ -18,7 +18,7 @@
     self,
     nixpkgs,
     flake-utils,
-
+    music-controls,
     ...
   }: let
     systems = builtins.attrNames nixpkgs.legacyPackages;
