@@ -87,7 +87,7 @@ with final.pkgs.lib; let
     nvim-notify
     # ^ libraries that other plugins depend on
     # bleeding-edge plugins from flake inputs
-    { plugin = (mkNvimPlugin inputs.music-controls "music-controls"); optional = false; runtime = {playerctl = pkgs.playerctl;};}
+    (mkNvimPlugin inputs.music-controls "music-controls")
     # ^ bleeding-edge plugins from flake inputs
     which-key-nvim
 
