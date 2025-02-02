@@ -29,7 +29,7 @@ end
 require("pomo").setup({
   notifiers = {
     {
-      sticky = false
+      ops = { sticky = false },
     },
   },
   sessions = {
