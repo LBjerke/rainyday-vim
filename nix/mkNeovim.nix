@@ -13,14 +13,14 @@ with lib;
     appName ? null,
     # The Neovim package to wrap
     neovim-unwrapped ? pkgs-wrapNeovim.neovim-unwrapped,
-    plugins ? [ { name = "music-controls"; url = "https://github.com/AntonVanAssche/music-controls.nvim";}], # List of plugins
+    plugins ? [  ], # List of plugins
     # List of dev plugins (will be bootstrapped) - useful for plugin developers
     # { name = <plugin-name>; url = <git-url>; }
     devPlugins ? [],
     # Regexes for config files to ignore, relative to the nvim directory.
     # e.g. [ "^plugin/neogit.lua" "^ftplugin/.*.lua" ]
    ignoreConfigRegexes ? [],
-    extraPackages ? [pkgs-wrapNeovim.playerctl], # Extra runtime dependencies (e.g. ripgrep, ...)
+    extraPackages ? [playerctl], # Extra runtime dependencies (e.g. ripgrep, ...)
     # The below arguments can typically be left as their defaults
     # Additional lua packages (not plugins), e.g. from luarocks.org.
     # e.g. p: [p.jsregexp]
