@@ -135,6 +135,22 @@
         "type": "github"
       }
     },
+    "music-controls": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1735734078,
+        "narHash": "sha256-cPam2gwmEHq1OPB65It9797PZ9xXVLXGMYsHfM2LJeA=",
+        "owner": "AntonVanAssche",
+        "repo": "music-controls.nvim",
+        "rev": "35e6a644d66e916aeaad47b3f76f3dc608a32b68",
+        "type": "github"
+      },
+      "original": {
+        "owner": "AntonVanAssche",
+        "repo": "music-controls.nvim",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1718714799,
@@ -199,6 +215,7 @@
       "inputs": {
         "flake-utils": "flake-utils",
         "gen-luarc": "gen-luarc",
+        "music-controls": "music-controls",
         "nixpkgs": "nixpkgs_2"
       }
     },
