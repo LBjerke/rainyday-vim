@@ -38,6 +38,7 @@ require('lualine').setup {
       { extra_mode_status },
     },
     lualine_x = {
+      require("music-controls")._statusline,
       function()
         local ok, pomo = pcall(require, "pomo")
         if not ok then

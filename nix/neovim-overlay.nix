@@ -100,22 +100,35 @@ with final.pkgs.lib; let
   haskell.compiler.ghc981 # haskell compiler 9.10.1
 #  playerctl
   haskell.packages.ghc981.haskell-language-server # lsp 9.10.1
+  # Haskell 
+  haskell.compiler.ghc981 # haskell compiler 9.8.1
+  haskell.packages.ghc981.haskell-language-server # lsp 9.8.1
   haskellPackages.cabal-fmt
   ormolu
   stack
   cabal-install
   llvmPackages_15.libllvm 
-  cacert 
-  git 
-  hostname 
-  z3 
+  # Libraries
   botan3 
   pkg-config 
+  z3 
   zlib 
   blas  
   lapack
+  # Golang
   go
   gopls
+  # Zig
+  zig
+  zls
+  # Others
+  cacert 
+  git 
+  hostname 
+  cmake
+  ripgrep
+  # Music
+  #playerctl
 
   ];
 in {

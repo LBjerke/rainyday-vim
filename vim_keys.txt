@@ -1,0 +1,1120 @@
+
+
+
+
+n  <CR>         @<Plug>NetrwLocalBrowseCheck
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6443
+n  %            @<Plug>NetrwOpenFile
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6437
+n  -            @<Plug>NetrwBrowseUpDir
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6436
+n  C            @<Plug>NetrwSetChgwin
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6441
+v  D           *@:call <SNR>73_NetrwLocalRm("/home/loki/Code/RainyDay/rainyday-vim")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6600
+n  D           *@:call <SNR>73_NetrwLocalRm("/home/loki/Code/RainyDay/rainyday-vim")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6596
+n  I           *@:<C-U>call <SNR>73_NetrwBannerCtrl(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6515
+n  O           *@:<C-U>call <SNR>73_NetrwObtain(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6538
+n  P           *@:<C-U>call <SNR>73_NetrwPrevWinOpen(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6541
+v  R           *@:call <SNR>73_NetrwLocalRename("/home/loki/Code/RainyDay/rainyday-vim")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6601
+n  R           *@:call <SNR>73_NetrwLocalRename("/home/loki/Code/RainyDay/rainyday-vim")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6597
+n  S           *@:<C-U>call <SNR>73_NetSortSequence(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6547
+n  Th          *@:<C-U>call <SNR>73_NetrwSetTgt(1,'h',v:count)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6550
+n  Tb          *@:<C-U>call <SNR>73_NetrwSetTgt(1,'b',v:count1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6548
+n  U           *@:<C-U>call <SNR>73_NetrwBookHistHandler(5,expand("%"))<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6552
+n  X           *@:<C-U>call <SNR>73_NetrwLocalExecute(expand("<cword>"))"<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6555
+n  a            @<Plug>NetrwHide_a
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6435
+n  cd           @<Plug>NetrwLcd
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6440
+n  cB           @<Plug>NetrwBadd_cB
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6439
+n  cb           @<Plug>NetrwBadd_cb
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6438
+n  d           *@:call <SNR>73_NetrwMakeDir("")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6598
+n  gp          *@:<C-U>call <SNR>73_NetrwChgPerm(1,b:netrw_curdir)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6514
+n  gn          *@:<C-U>call netrw#SetTreetop(0,<SNR>73_NetrwGetWord())<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6513
+n  gh          *@:<C-U>call <SNR>73_NetrwHidden(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6512
+n  gf          *@:<C-U>call <SNR>73_NetrwForceFile(1,<SNR>73_NetrwGetWord())<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6511
+n  gd          *@:<C-U>call <SNR>73_NetrwForceChgDir(1,<SNR>73_NetrwGetWord())<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6510
+n  gb           @<Plug>NetrwBookHistHandler_gb
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6446
+n  i           *@:<C-U>call <SNR>73_NetrwListStyle(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6516
+n  mz          *@:<C-U>call <SNR>73_NetrwMarkFileCompress(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6537
+n  mX          *@:<C-U>call <SNR>73_NetrwMarkFileExe(1,1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6536
+n  mx          *@:<C-U>call <SNR>73_NetrwMarkFileExe(1,0)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6535
+n  mv          *@:<C-U>call <SNR>73_NetrwMarkFileVimCmd(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6534
+n  mu          *@:<C-U>call <SNR>73_NetrwUnMarkFile(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6533
+n  mt          *@:<C-U>call <SNR>73_NetrwMarkFileTgt(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6532
+n  mT          *@:<C-U>call <SNR>73_NetrwMarkFileTag(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6531
+n  ms          *@:<C-U>call <SNR>73_NetrwMarkFileSource(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6530
+n  mr          *@:<C-U>call <SNR>73_NetrwMarkFileRegexp(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6529
+n  mm          *@:<C-U>call <SNR>73_NetrwMarkFileMove(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6528
+n  mh          *@:<C-U>call <SNR>73_NetrwMarkHideSfx(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6527
+n  mg          *@:<C-U>call <SNR>73_NetrwMarkFileGrep(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6526
+n  mF          *@:<C-U>call <SNR>73_NetrwUnmarkList(bufnr("%"),b:netrw_curdir)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6525
+n  mf          *@:<C-U>call <SNR>73_NetrwMarkFile(1,<SNR>73_NetrwGetWord())<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6524
+n  me          *@:<C-U>call <SNR>73_NetrwMarkFileEdit(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6523
+n  md          *@:<C-U>call <SNR>73_NetrwMarkFileDiff(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6522
+n  mc          *@:<C-U>call <SNR>73_NetrwMarkFileCopy(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6521
+n  mB          *@:<C-U>call <SNR>73_NetrwBookHistHandler(6,b:netrw_curdir)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6520
+n  mb          *@:<C-U>call <SNR>73_NetrwBookHistHandler(0,b:netrw_curdir)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6519
+n  mA          *@:<C-U>call <SNR>73_NetrwMarkFileArgList(1,1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6518
+n  ma          *@:<C-U>call <SNR>73_NetrwMarkFileArgList(1,0)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6517
+n  o           *@:call <SNR>73_NetrwSplit(3)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6539
+n  p           *@:<C-U>call <SNR>73_NetrwPreview(<SNR>73_NetrwBrowseChgDir(1,<SNR>73_NetrwGetWord(),1))<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6540
+n  qL          *@:<C-U>call <SNR>73_NetrwMarkFileQFEL(1,getloclist(v:count))<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6545
+n  qF          *@:<C-U>call <SNR>73_NetrwMarkFileQFEL(1,getqflist())<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6544
+n  qf          *@:<C-U>call <SNR>73_NetrwFileInfo(1,<SNR>73_NetrwGetWord())<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6543
+n  qb          *@:<C-U>call <SNR>73_NetrwBookHistHandler(2,b:netrw_curdir)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6542
+n  r           *@:<C-U>let g:netrw_sort_direction= (g:netrw_sort_direction =~# 'n')? 'r' : 'n'|exe "norm! 0"|call <SNR>73_NetrwRefresh(1,<SNR>73_NetrwBrowseChgDir(1,'./'))<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6557
+n  s           *@:call <SNR>73_NetrwSortStyle(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6546
+n  t           *@:call <SNR>73_NetrwSplit(4)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6549
+n  u           *@:<C-U>call <SNR>73_NetrwBookHistHandler(4,expand("%"))<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6551
+n  v           *@:call <SNR>73_NetrwSplit(5)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6553
+n  x           *@:<C-U>call netrw#BrowseX(<SNR>73_NetrwBrowseChgDir(1,<SNR>73_NetrwGetWord(),0),0)"<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6554
+n  <F1>        *@:he netrw-quickhelp<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6602
+v  <Del>       *@:call <SNR>73_NetrwLocalRm("/home/loki/Code/RainyDay/rainyday-vim")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6599
+n  <Del>       *@:call <SNR>73_NetrwLocalRm("/home/loki/Code/RainyDay/rainyday-vim")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6595
+v  <RightMouse> *@:exec "norm! \<leftmouse>"|call <SNR>73_NetrwLocalRm("/home/loki/Code/RainyDay/rainyday-vim")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6593
+n  <RightMouse> *@:exec "norm! \<leftmouse>"|call <SNR>73_NetrwLocalRm("/home/loki/Code/RainyDay/rainyday-vim")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6592
+n  <Plug>Netrw2Leftmouse  @-
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6591
+n  <Plug>NetrwSLeftdrag *@:exec "norm! \<leftmouse>"|call <SNR>73_NetrwSLeftdrag(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6590
+n  <Plug>NetrwSLeftmouse *@:exec "norm! \<leftmouse>"|call <SNR>73_NetrwSLeftmouse(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6589
+n  <Plug>NetrwMiddlemouse *@:exec "norm! \<leftmouse>"|call <SNR>73_NetrwPrevWinOpen(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6588
+n  <Plug>NetrwCLeftmouse *@:exec "norm! \<leftmouse>"|call <SNR>73_NetrwCLeftmouse(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6587
+n  <Plug>NetrwLeftmouse *@:exec "norm! \<leftmouse>"|call <SNR>73_NetrwLeftmouse(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6586
+n  <2-LeftMouse>  @<Plug>Netrw2Leftmouse
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6583
+n  <S-LeftDrag>  @<Plug>NetrwSLeftdrag
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6582
+n  <S-LeftMouse>  @<Plug>NetrwSLeftmouse
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6581
+n  <MiddleMouse>  @<Plug>NetrwMiddlemouse
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6580
+n  <C-LeftMouse>  @<Plug>NetrwCLeftmouse
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6579
+n  <LeftMouse>  @<Plug>NetrwLeftmouse
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6578
+n  <Plug>NetrwTreeSqueeze *@:call <SNR>73_TreeSqueezeDir(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6575
+n  <S-CR>       @<Plug>NetrwTreeSqueeze
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6573
+n  <S-Up>      *@:Pexplore<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6570
+n  <S-Down>    *@:Nexplore<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6567
+n  <Plug>NetrwRefresh *@<C-L>:call <SNR>73_NetrwRefresh(1,<SNR>73_NetrwBrowseChgDir(1,(exists("w:netrw_liststyle") && exists("w:netrw_treetop") && w:netrw_liststyle == 3)? w:netrw_treetop : './'))<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6565
+n  <Plug>NetrwHideEdit *@:call <SNR>73_NetrwHideEdit(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6561
+n  <C-H>        @<Plug>NetrwHideEdit
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6559
+n  <Plug>NetrwBookHistHandler_gb *@:<C-U>call <SNR>73_NetrwBookHistHandler(1,b:netrw_curdir)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6508
+n  <Plug>NetrwMakeDir *@:<C-U>call <SNR>73_NetrwMakeDir("")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6507
+n  <Plug>NetrwServerEdit *@:<C-U>call <SNR>73_NetrwServerEdit(3,<SNR>73_NetrwGetWord())<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6506
+n  <Plug>NetrwLocalBrowseCheck *@:<C-U>call netrw#LocalBrowseCheck(<SNR>73_NetrwBrowseChgDir(1,<SNR>73_NetrwGetWord()))<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6505
+n  <Plug>NetrwSetChgwin *@:<C-U>call <SNR>73_NetrwSetChgwin()<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6504
+n  <Plug>NetrwLcd *@:<C-U>call <SNR>73_NetrwLcd(b:netrw_curdir)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6503
+n  <Plug>NetrwBadd_cB *@:<C-U>call <SNR>73_NetrwBadd(1,1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6502
+n  <Plug>NetrwBadd_cb *@:<C-U>call <SNR>73_NetrwBadd(1,0)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6501
+n  <Plug>NetrwOpenFile *@:<C-U>call <SNR>73_NetrwOpenFile(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6500
+n  <Plug>NetrwBrowseUpDir *@:<C-U>call <SNR>73_NetrwBrowseUpDir(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6499
+n  <Plug>NetrwHide_a *@:<C-U>call <SNR>73_NetrwHide(1)<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6498
+n  <C-R>        @<Plug>NetrwServerEdit
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6444
+n  <C-L>        @<Plug>NetrwRefresh
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/autoload/netrw.vim line 6442
+n  <Space>dt   * <Lua 97: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:177>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>e    * <Lua 90: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:136>
+                 diagnostics floating window
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>tq   * <Lua 89: vim/_editor.lua:0>
+                 [t]ab: [q]uit/close
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>tn   * <Lua 88: vim/_editor.lua:0>
+                 [t]ab: [n]ew
+	Last set from Lua (run Nvim with -V1 for more details)
+x  #           * <Lua 7: vim/_defaults.lua:0>
+                 :help v_#-default
+	Last set from Lua (run Nvim with -V1 for more details)
+o  %             <Plug>(MatchitOperationForward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 74
+x  %             <Plug>(MatchitVisualForward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 72
+n  %             <Plug>(MatchitNormalForward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 70
+n  &           * :&&<CR>
+                 :help &-default
+	Last set from Lua (run Nvim with -V1 for more details)
+x  *           * <Lua 3: vim/_defaults.lua:0>
+                 :help v_star-default
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <p            <Plug>(unimpaired-put-below-leftward)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 440
+n  <P            <Plug>(unimpaired-put-above-leftward)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 439
+n  <s<Esc>     & <Nop>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 371
+n  <s            <Plug>(unimpaired-enable)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 368
+n  =p            <Plug>(unimpaired-put-below-reformat)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 442
+n  =P            <Plug>(unimpaired-put-above-reformat)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 441
+n  =s<Esc>     & <Nop>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 370
+n  =s            <Plug>(unimpaired-toggle)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 367
+n  >p            <Plug>(unimpaired-put-below-rightward)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 438
+n  >P            <Plug>(unimpaired-put-above-rightward)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 437
+n  >s<Esc>     & <Nop>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 372
+n  >s            <Plug>(unimpaired-disable)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 369
+x  @           * mode() ==# 'V' ? ':normal! @'.getcharstr().'<CR>' : '@'
+                 :help v_@-default
+	Last set from Lua (run Nvim with -V1 for more details)
+x  Q           * mode() ==# 'V' ? ':normal! @<C-R>=reg_recorded()<CR><CR>' : 'Q'
+                 :help v_Q-default
+	Last set from Lua (run Nvim with -V1 for more details)
+x  S           * <Plug>(nvim-surround-visual)
+                 Add a surrounding pair around a visual selection
+	Last set from Lua (run Nvim with -V1 for more details)
+n  Y           * y$
+                 [Y]ank to end of line
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [xx           <Plug>(unimpaired-xml-encode-line)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 610
+x  [x            <Plug>(unimpaired-xml-encode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 609
+n  [x            <Plug>(unimpaired-xml-encode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 608
+n  [uu           <Plug>(unimpaired-url-encode-line)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 610
+x  [u            <Plug>(unimpaired-url-encode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 609
+n  [u            <Plug>(unimpaired-url-encode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 608
+n  [CC           <Plug>(unimpaired-string-encode-line)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 610
+x  [C            <Plug>(unimpaired-string-encode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 609
+n  [yy           <Plug>(unimpaired-string-encode-line)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 610
+x  [y            <Plug>(unimpaired-string-encode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 609
+n  [y            <Plug>(unimpaired-string-encode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 608
+n  [P            <Plug>(unimpaired-put-above)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 434
+n  [p            <Plug>(unimpaired-put-above)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 432
+n  [o<Esc>     & <Nop>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 365
+n  [o            <Plug>(unimpaired-enable)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 362
+x  [e            <Plug>(unimpaired-move-selection-up)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 295
+n  [<Space>      <Plug>(unimpaired-blank-up)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 253
+o  [n            <Plug>(unimpaired-context-previous)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 185
+x  [n            <Plug>(unimpaired-context-previous)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 183
+n  [n            <Plug>(unimpaired-context-previous)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 181
+n  [f            <Plug>(unimpaired-directory-previous)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 170
+n  [<C-T>        <Plug>(unimpaired-ptprevious)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 67
+n  [T            <Plug>(unimpaired-tfirst)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 53
+n  [t            <Plug>(unimpaired-tprevious)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 51
+n  [<C-Q>        <Plug>(unimpaired-cpfile)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 60
+n  [Q            <Plug>(unimpaired-cfirst)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 53
+n  [q            <Plug>(unimpaired-cprevious)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 51
+n  [<C-L>        <Plug>(unimpaired-lpfile)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 60
+n  [A            <Plug>(unimpaired-first)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 53
+n  [a            <Plug>(unimpaired-previous)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 51
+o  [%            <Plug>(MatchitOperationMultiBackward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 82
+x  [%            <Plug>(MatchitVisualMultiBackward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 80
+n  [%            <Plug>(MatchitNormalMultiBackward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 78
+n  [h          * <Lua 95: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:166>
+                 previous [h]int diagnostic
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [w          * <Lua 93: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:156>
+                 previous [w]arning diagnostic
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [e          * <Lua 14: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:146>
+                 previous [e]rror diagnostic
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [L          * <Lua 71: vim/_editor.lua:0>
+                 first [L]oclist entry
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [l          * <Lua 69: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:73>
+                 cycle [l]oclist left
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [C          * <Lua 67: vim/_editor.lua:0>
+                 first quickfix entry
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [c          * <Lua 65: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:52>
+                 [c]ycle quickfix left
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [B          * <Lua 62: vim/_editor.lua:0>
+                 first [B]uffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [b          * <Lua 60: vim/_editor.lua:0>
+                 previous [b]uffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [d          * <Lua 91: /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/lua/vim/diagnostic.lua:1145>
+                 previous [d]iagnostic
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \to         * <Lua 185: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [t]elescope lsp dynamic w[o]rkspace symbols
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \td         * <Lua 184: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [t]elescope lsp [d]ocument symbols
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \tbf        * <Lua 183: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [t]elescope current [b]uffer [f]uzzy find
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \tbb        * <Lua 182: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [t]elescope [b]uffers [b]
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \tr         * <Lua 181: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [t]elescope [r]egisters
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \tl         * <Lua 180: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [t]elescope [l]oclist
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \tq         * <Lua 179: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [t]elescope command history [q]
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \tc         * <Lua 178: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [t]elescope quickfix list [c]
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \tg         * <Lua 177: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/telescope.lua:25>
+                 [t]elescope project files [g]
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \*          * <Lua 176: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [telescope] grep current string [*]
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \t*         * <Lua 175: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/telescope.lua:53>
+                 [t]elescope grep current string [*] in current filetype
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \tf         * <Lua 172: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/telescope.lua:63>
+                 [t]elescope [f]uzzy grep
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \tp         * <Lua 141: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/telescope.lua:72>
+                 [t]elescope find files - ctrl[p] style
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \gc         * <Lua 119: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/neogit.lua:27>
+                 neo[g]it [c]ommit
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \gs         * <Lua 118: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/neogit.lua:24>
+                 neo[g]it open [s]plit
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \go         * <Lua 111: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/neogit/lua/neogit.lua:147>
+                 neo[g]it [o]pen
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \S          * <Lua 98: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:184>
+                 toggle [S]pell
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \fq         * <Lua 86: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:114>
+                 [f]loating windows: [q]uit/close all
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \h-         * <Lua 85: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:108>
+                 dec window [h]eight
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \h+         * <Lua 84: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:104>
+                 inc window [h]eight
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \w-         * <Lua 83: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:100>
+                 dec window [w]idth
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \w+         * <Lua 73: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:96>
+                 inc window [w]idth
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \gft        * <Lua 54: vim/_editor.lua:0>
+                 [g]it [d]iffview [f]iles [t]oggle
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \gd         * <Lua 53: vim/_editor.lua:0>
+                 [g]it [d]iffview open
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \gfc        * <Lua 52: vim/_editor.lua:0>
+                 diffview [g]it [f]ile history ([c]wd)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  \gfb        * <Lua 51: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/diffview.lua:6>
+                 diffview [g]it [f]ile history (current [b]uffer)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]xx           <Plug>(unimpaired-xml-decode-line)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 610
+x  ]x            <Plug>(unimpaired-xml-decode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 609
+n  ]x            <Plug>(unimpaired-xml-decode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 608
+n  ]uu           <Plug>(unimpaired-url-decode-line)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 610
+x  ]u            <Plug>(unimpaired-url-decode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 609
+n  ]u            <Plug>(unimpaired-url-decode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 608
+n  ]CC           <Plug>(unimpaired-string-decode-line)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 610
+x  ]C            <Plug>(unimpaired-string-decode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 609
+n  ]yy           <Plug>(unimpaired-string-decode-line)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 610
+x  ]y            <Plug>(unimpaired-string-decode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 609
+n  ]y            <Plug>(unimpaired-string-decode)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 608
+n  ]P            <Plug>(unimpaired-put-below)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 435
+n  ]p            <Plug>(unimpaired-put-below)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 433
+n  ]o<Esc>     & <Nop>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 366
+n  ]o            <Plug>(unimpaired-disable)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 363
+x  ]e            <Plug>(unimpaired-move-selection-down)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 296
+n  ]<Space>      <Plug>(unimpaired-blank-down)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 254
+o  ]n            <Plug>(unimpaired-context-next)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 186
+x  ]n            <Plug>(unimpaired-context-next)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 184
+n  ]n            <Plug>(unimpaired-context-next)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 182
+n  ]f            <Plug>(unimpaired-directory-next)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 169
+n  ]<C-T>        <Plug>(unimpaired-ptnext)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 68
+n  ]T            <Plug>(unimpaired-tlast)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 54
+n  ]t            <Plug>(unimpaired-tnext)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 52
+n  ]<C-Q>        <Plug>(unimpaired-cnfile)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 61
+n  ]Q            <Plug>(unimpaired-clast)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 54
+n  ]q            <Plug>(unimpaired-cnext)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 52
+n  ]<C-L>        <Plug>(unimpaired-lnfile)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 61
+n  ]A            <Plug>(unimpaired-last)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 54
+n  ]a            <Plug>(unimpaired-next)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 52
+o  ]%            <Plug>(MatchitOperationMultiForward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 83
+x  ]%            <Plug>(MatchitVisualMultiForward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 81
+n  ]%            <Plug>(MatchitNormalMultiForward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 79
+n  ]h          * <Lua 96: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:171>
+                 next [h]int diagnostic
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]w          * <Lua 94: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:161>
+                 next [w]arning diagnostic
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]e          * <Lua 92: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:151>
+                 next [e]rror diagnostic
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]L          * <Lua 72: vim/_editor.lua:0>
+                 last [L]oclist entry
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]l          * <Lua 70: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:81>
+                 cycle [l]oclist right
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]C          * <Lua 68: vim/_editor.lua:0>
+                 last quickfix entry
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]c          * <Lua 66: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:60>
+                 [c]ycle quickfix right
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]B          * <Lua 63: vim/_editor.lua:0>
+                 last [B]uffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]b          * <Lua 61: vim/_editor.lua:0>
+                 next [b]uffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]d          * <Lua 15: /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/lua/vim/diagnostic.lua:1222>
+                 next [d]iagnostic
+	Last set from Lua (run Nvim with -V1 for more details)
+x  a%            <Plug>(MatchitVisualTextObject)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 86
+n  cS          * <Plug>(nvim-surround-change-line)
+                 Change a surrounding pair, putting replacements on new lines
+	Last set from Lua (run Nvim with -V1 for more details)
+n  cs          * <Plug>(nvim-surround-change)
+                 Change a surrounding pair
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ds          * <Plug>(nvim-surround-delete)
+                 Delete a surrounding pair
+	Last set from Lua (run Nvim with -V1 for more details)
+o  g%            <Plug>(MatchitOperationBackward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 75
+x  g%            <Plug>(MatchitVisualBackward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 73
+n  g%            <Plug>(MatchitNormalBackward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 71
+x  gS          * <Plug>(nvim-surround-visual-line)
+                 Add a surrounding pair around a visual selection, on new lines
+	Last set from Lua (run Nvim with -V1 for more details)
+o  gc          * <Lua 13: vim/_defaults.lua:0>
+                 Comment textobject
+	Last set from Lua (run Nvim with -V1 for more details)
+n  gcc         * <Lua 12: vim/_defaults.lua:0>
+                 Toggle comment line
+	Last set from Lua (run Nvim with -V1 for more details)
+x  gc          * <Lua 11: vim/_defaults.lua:0>
+                 Toggle comment
+	Last set from Lua (run Nvim with -V1 for more details)
+n  gc          * <Lua 10: vim/_defaults.lua:0>
+                 Toggle comment
+	Last set from Lua (run Nvim with -V1 for more details)
+x  gx          * <Lua 9: vim/_defaults.lua:0>
+                 Opens filepath or URI under cursor with the system handler (file explorer, web browser, …)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  gx          * <Lua 8: vim/_defaults.lua:0>
+                 Opens filepath or URI under cursor with the system handler (file explorer, web browser, …)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  yo<Esc>     & <Nop>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 364
+n  yo            <Plug>(unimpaired-toggle)
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 361
+n  y<C-G>      & :<C-U>call setreg(v:register, fugitive#Object(@%))<CR>
+	Last set from /nix/store/nwd8m954855yjdv599iibnh10bxl9rz3-vimplugin-vim-fugitive-2025-01-20/plugin/fugitive.vim line 749
+n  ySS         * <Plug>(nvim-surround-normal-cur-line)
+                 Add a surrounding pair around the current line, on new lines (normal mode)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  yS          * <Plug>(nvim-surround-normal-line)
+                 Add a surrounding pair around a motion, on new lines (normal mode)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  yss         * <Plug>(nvim-surround-normal-cur)
+                 Add a surrounding pair around the current line (normal mode)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ys          * <Plug>(nvim-surround-normal)
+                 Add a surrounding pair around a motion (normal mode)
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <C-E>       * <Lua 425: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-cmp/lua/cmp/utils/keymap.lua:133>
+                 cmp.utils.keymap.set_map
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <C-B>       * <Lua 149: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-cmp/lua/cmp/utils/keymap.lua:133>
+                 cmp.utils.keymap.set_map
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <C-P>       * <Lua 105: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-cmp/lua/cmp/utils/keymap.lua:133>
+                 cmp.utils.keymap.set_map
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>(unimpaired-xml-decode-line) * <SNR>63_TransformSetup("xml_decode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 607
+x  <Plug>(unimpaired-xml-decode) * <SNR>63_TransformSetup("xml_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 606
+n  <Plug>(unimpaired-xml-decode) * <SNR>63_TransformSetup("xml_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 605
+n  <Plug>unimpaired_line_xml_decode * <SNR>63_TransformSetup("xml_decode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 604
+x  <Plug>unimpaired_xml_decode * <SNR>63_TransformSetup("xml_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 603
+n  <Plug>unimpaired_xml_decode * <SNR>63_TransformSetup("xml_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 602
+n  <Plug>(unimpaired-xml-encode-line) * <SNR>63_TransformSetup("xml_encode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 607
+x  <Plug>(unimpaired-xml-encode) * <SNR>63_TransformSetup("xml_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 606
+n  <Plug>(unimpaired-xml-encode) * <SNR>63_TransformSetup("xml_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 605
+n  <Plug>unimpaired_line_xml_encode * <SNR>63_TransformSetup("xml_encode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 604
+x  <Plug>unimpaired_xml_encode * <SNR>63_TransformSetup("xml_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 603
+n  <Plug>unimpaired_xml_encode * <SNR>63_TransformSetup("xml_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 602
+n  <Plug>(unimpaired-url-decode-line) * <SNR>63_TransformSetup("url_decode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 607
+x  <Plug>(unimpaired-url-decode) * <SNR>63_TransformSetup("url_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 606
+n  <Plug>(unimpaired-url-decode) * <SNR>63_TransformSetup("url_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 605
+n  <Plug>unimpaired_line_url_decode * <SNR>63_TransformSetup("url_decode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 604
+x  <Plug>unimpaired_url_decode * <SNR>63_TransformSetup("url_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 603
+n  <Plug>unimpaired_url_decode * <SNR>63_TransformSetup("url_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 602
+n  <Plug>(unimpaired-url-encode-line) * <SNR>63_TransformSetup("url_encode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 607
+x  <Plug>(unimpaired-url-encode) * <SNR>63_TransformSetup("url_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 606
+n  <Plug>(unimpaired-url-encode) * <SNR>63_TransformSetup("url_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 605
+n  <Plug>unimpaired_line_url_encode * <SNR>63_TransformSetup("url_encode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 604
+x  <Plug>unimpaired_url_encode * <SNR>63_TransformSetup("url_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 603
+n  <Plug>unimpaired_url_encode * <SNR>63_TransformSetup("url_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 602
+n  <Plug>(unimpaired-string-decode-line) * <SNR>63_TransformSetup("string_decode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 607
+x  <Plug>(unimpaired-string-decode) * <SNR>63_TransformSetup("string_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 606
+n  <Plug>(unimpaired-string-decode) * <SNR>63_TransformSetup("string_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 605
+n  <Plug>unimpaired_line_string_decode * <SNR>63_TransformSetup("string_decode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 604
+x  <Plug>unimpaired_string_decode * <SNR>63_TransformSetup("string_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 603
+n  <Plug>unimpaired_string_decode * <SNR>63_TransformSetup("string_decode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 602
+n  <Plug>(unimpaired-string-encode-line) * <SNR>63_TransformSetup("string_encode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 607
+x  <Plug>(unimpaired-string-encode) * <SNR>63_TransformSetup("string_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 606
+n  <Plug>(unimpaired-string-encode) * <SNR>63_TransformSetup("string_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 605
+n  <Plug>unimpaired_line_string_encode * <SNR>63_TransformSetup("string_encode")."_"
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 604
+x  <Plug>unimpaired_string_encode * <SNR>63_TransformSetup("string_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 603
+n  <Plug>unimpaired_string_encode * <SNR>63_TransformSetup("string_encode")
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 602
+n  <Plug>unimpairedPutBelow * :call <SNR>63_putline(']p', 'below')<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 430
+n  <Plug>unimpairedPutAbove * :call <SNR>63_putline('[p', 'above')<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 429
+n  <Plug>(unimpaired-put-below-reformat) * :<C-U>call <SNR>63_putline(v:count1 . ']p', 'Below')<CR>=']
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 428
+n  <Plug>(unimpaired-put-above-reformat) * :<C-U>call <SNR>63_putline(v:count1 . '[p', 'Above')<CR>=']
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 427
+n  <Plug>(unimpaired-put-below-leftward) * :<C-U>call <SNR>63_putline(v:count1 . ']p', 'Below')<CR><']
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 426
+n  <Plug>(unimpaired-put-above-leftward) * :<C-U>call <SNR>63_putline(v:count1 . '[p', 'Above')<CR><']
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 425
+n  <Plug>(unimpaired-put-below-rightward) * :<C-U>call <SNR>63_putline(v:count1 . ']p', 'Below')<CR>>']
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 424
+n  <Plug>(unimpaired-put-above-rightward) * :<C-U>call <SNR>63_putline(v:count1 . '[p', 'Above')<CR>>']
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 423
+n  <Plug>(unimpaired-put-below) * :call <SNR>63_putline(']p', 'below')<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 422
+n  <Plug>(unimpaired-put-above) * :call <SNR>63_putline('[p', 'above')<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 421
+n  <Plug>(unimpaired-toggle)p & :<C-U>call <SNR>63_SetupPaste()<CR>0C
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 405
+n  <Plug>(unimpaired-disable)p & :<C-U>call <SNR>63_SetupPaste()<CR>o
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 404
+n  <Plug>(unimpaired-enable)p & :<C-U>call <SNR>63_SetupPaste()<CR>O
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 403
+n  <Plug>(unimpaired-paste) & :<C-U>call <SNR>63_SetupPaste()<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 401
+n  <Plug>unimpairedPaste * :call <SNR>63_SetupPaste()<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 400
+n  <Plug>(unimpaired-toggle)t & :<C-U>set colorcolumn=<C-R>=<SNR>63_ColorColumn(!empty(&cc))<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 359
+n  <Plug>(unimpaired-disable)t & :<C-U>set colorcolumn=<C-R>=<SNR>63_ColorColumn(1)<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 358
+n  <Plug>(unimpaired-enable)t & :<C-U>set colorcolumn=<C-R>=<SNR>63_ColorColumn(0)<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 357
+n  <Plug>(unimpaired-toggle)+ & :<C-U>set <C-R>=<SNR>63_CursorOptions()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 349
+n  <Plug>(unimpaired-disable)+ & :<C-U>set nocursorline nocursorcolumn<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 348
+n  <Plug>(unimpaired-enable)+ & :<C-U>set cursorline cursorcolumn<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 347
+n  <Plug>(unimpaired-toggle)x & :<C-U>set <C-R>=<SNR>63_CursorOptions()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 346
+n  <Plug>(unimpaired-disable)x & :<C-U>set nocursorline nocursorcolumn<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 345
+n  <Plug>(unimpaired-enable)x & :<C-U>set cursorline cursorcolumn<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 344
+n  <Plug>(unimpaired-toggle)v & :<C-U>set <C-R>=(&virtualedit =~# "all") ? "virtualedit-=all" : "virtualedit+=all"<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 343
+n  <Plug>(unimpaired-disable)v & :<C-U>set virtualedit-=all<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 342
+n  <Plug>(unimpaired-enable)v & :<C-U>set virtualedit+=all<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 341
+n  <Plug>(unimpaired-toggle)z & :<C-U>setlocal <C-R>=<SNR>63_Toggle("spell")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)z & :<C-U>setlocal nospell<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)z & :<C-U>setlocal spell<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)w & :<C-U>setlocal <C-R>=<SNR>63_Toggle("wrap")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)w & :<C-U>setlocal nowrap<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)w & :<C-U>setlocal wrap<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)s & :<C-U>setlocal <C-R>=<SNR>63_Toggle("spell")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)s & :<C-U>setlocal nospell<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)s & :<C-U>setlocal spell<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)r & :<C-U>setlocal <C-R>=<SNR>63_Toggle("relativenumber")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)r & :<C-U>setlocal norelativenumber<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)r & :<C-U>setlocal relativenumber<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)n & :<C-U>setlocal <C-R>=<SNR>63_Toggle("number")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)n & :<C-U>setlocal nonumber<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)n & :<C-U>setlocal number<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)l & :<C-U>setlocal <C-R>=<SNR>63_Toggle("list")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)l & :<C-U>setlocal nolist<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)l & :<C-U>setlocal list<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)i & :<C-U>set <C-R>=<SNR>63_Toggle("ignorecase")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)i & :<C-U>set noignorecase<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)i & :<C-U>set ignorecase<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)h & :<C-U>set <C-R>=<SNR>63_Toggle("hlsearch")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)h & :<C-U>set nohlsearch<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)h & :<C-U>set hlsearch<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)d & :<C-U><C-R>=&diff ? "diffoff" : "diffthis"<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 330
+n  <Plug>(unimpaired-disable)d & :<C-U>diffoff<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 329
+n  <Plug>(unimpaired-enable)d & :<C-U>diffthis<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 328
+n  <Plug>(unimpaired-toggle)| & :<C-U>setlocal <C-R>=<SNR>63_Toggle("cursorcolumn")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)| & :<C-U>setlocal nocursorcolumn<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)| & :<C-U>setlocal cursorcolumn<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)u & :<C-U>setlocal <C-R>=<SNR>63_Toggle("cursorcolumn")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)u & :<C-U>setlocal nocursorcolumn<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)u & :<C-U>setlocal cursorcolumn<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)_ & :<C-U>setlocal <C-R>=<SNR>63_Toggle("cursorline")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)_ & :<C-U>setlocal nocursorline<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)_ & :<C-U>setlocal cursorline<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)- & :<C-U>setlocal <C-R>=<SNR>63_Toggle("cursorline")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)- & :<C-U>setlocal nocursorline<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)- & :<C-U>setlocal cursorline<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)c & :<C-U>setlocal <C-R>=<SNR>63_Toggle("cursorline")<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 317
+n  <Plug>(unimpaired-disable)c & :<C-U>setlocal nocursorline<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 316
+n  <Plug>(unimpaired-enable)c & :<C-U>setlocal cursorline<C-R>=<SNR>63_StatuslineRefresh()<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 315
+n  <Plug>(unimpaired-toggle)b & :<C-U>set background=<C-R>=&background == "dark" ? "light" : "dark"<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 322
+n  <Plug>(unimpaired-disable)b & :<C-U>set background=dark<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 321
+n  <Plug>(unimpaired-enable)b & :<C-U>set background=light<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 320
+   <Plug>unimpairedMoveSelectionDown * :<C-U>call <SNR>63_MoveSelectionDown(v:count1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 291
+   <Plug>unimpairedMoveSelectionUp * :<C-U>call <SNR>63_MoveSelectionUp(v:count1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 290
+n  <Plug>unimpairedMoveDown * :<C-U>call <SNR>63_Move('+',v:count1,'down')<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 289
+n  <Plug>unimpairedMoveUp * :<C-U>call <SNR>63_Move('--',v:count1,'up')<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 288
+   <Plug>(unimpaired-move-selection-down) * :<C-U>call <SNR>63_MoveSelectionDown(v:count1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 287
+   <Plug>(unimpaired-move-selection-up) * :<C-U>call <SNR>63_MoveSelectionUp(v:count1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 286
+n  <Plug>(unimpaired-move-down) * :<C-U>call <SNR>63_Move('+',v:count1,'down')<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 285
+n  <Plug>(unimpaired-move-up) * :<C-U>call <SNR>63_Move('--',v:count1,'up')<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 284
+n  <Plug>unimpairedBlankDown * :<C-U>exe <SNR>63_BlankDown()<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 251
+n  <Plug>unimpairedBlankUp * :<C-U>exe <SNR>63_BlankUp()<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 250
+n  <Plug>(unimpaired-blank-down) * :<C-U>exe <SNR>63_BlankDown()<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 248
+n  <Plug>(unimpaired-blank-up) * :<C-U>exe <SNR>63_BlankUp()<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 247
+o  <Plug>unimpairedContextNext * :<C-U>call <SNR>63_ContextMotion(0)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 193
+o  <Plug>unimpairedContextPrevious * :<C-U>call <SNR>63_ContextMotion(1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 192
+x  <Plug>unimpairedContextNext * :<C-U>exe 'normal! gv'|call <SNR>63_Context(0)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 191
+x  <Plug>unimpairedContextPrevious * :<C-U>exe 'normal! gv'|call <SNR>63_Context(1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 190
+n  <Plug>unimpairedContextNext * :<C-U>call <SNR>63_Context(0)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 189
+n  <Plug>unimpairedContextPrevious * :<C-U>call <SNR>63_Context(1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 188
+o  <Plug>(unimpaired-context-next) * :<C-U>call <SNR>63_ContextMotion(0)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 179
+o  <Plug>(unimpaired-context-previous) * :<C-U>call <SNR>63_ContextMotion(1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 178
+v  <Plug>(unimpaired-context-next) * :<C-U>exe 'normal! gv'|call <SNR>63_Context(0)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 177
+v  <Plug>(unimpaired-context-previous) * :<C-U>exe 'normal! gv'|call <SNR>63_Context(1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 176
+n  <Plug>(unimpaired-context-next) * :<C-U>call <SNR>63_Context(0)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 175
+n  <Plug>(unimpaired-context-previous) * :<C-U>call <SNR>63_Context(1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 174
+n  <Plug>unimpairedDirectoryPrevious * :<C-U>execute <SNR>63_PreviousFileEntry(v:count1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 168
+n  <Plug>unimpairedDirectoryNext * :<C-U>execute <SNR>63_NextFileEntry(v:count1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 167
+n  <Plug>(unimpaired-directory-previous) * :<C-U>execute <SNR>63_PreviousFileEntry(v:count1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 166
+n  <Plug>(unimpaired-directory-next) * :<C-U>execute <SNR>63_NextFileEntry(v:count1)<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 165
+n  <Plug>unimpairedTPNext * :<C-U>exe "p".(v:count ? v:count : "")."tnext"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 66
+n  <Plug>unimpairedTPPrevious * :<C-U>exe "p".(v:count ? v:count : "")."tprevious"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 65
+n  <Plug>(unimpaired-ptnext) * :<C-U>exe v:count1 . "ptnext"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 64
+n  <Plug>(unimpaired-ptprevious) * :<C-U>exe v:count1 . "ptprevious"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 63
+n  <Plug>unimpairedTLast * :<C-U>exe "".(v:count ? v:count : "")."tlast"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 50
+n  <Plug>unimpairedTFirst * :<C-U>exe "".(v:count ? v:count : "")."tfirst"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 49
+n  <Plug>unimpairedTNext * :<C-U>exe "".(v:count ? v:count : "")."tnext"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 48
+n  <Plug>unimpairedTPrevious * :<C-U>exe "".(v:count ? v:count : "")."tprevious"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 47
+n  <Plug>(unimpaired-tlast) * :<C-U><C-R>=v:count ? v:count . "trewind" : "tlast"<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 46
+n  <Plug>(unimpaired-tfirst) * :<C-U><C-R>=v:count ? v:count . "trewind" : "tfirst"<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 45
+n  <Plug>(unimpaired-tnext) * :<C-U>exe "".(v:count ? v:count : "")."tnext"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 44
+n  <Plug>(unimpaired-tprevious) * :<C-U>exe "".(v:count ? v:count : "")."tprevious"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 43
+n  <Plug>unimpairedQNFile * :<C-U>exe "".(v:count ? v:count : "")."cnfile"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 59
+n  <Plug>unimpairedQPFile * :<C-U>exe "".(v:count ? v:count : "")."cpfile"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 58
+n  <Plug>(unimpaired-cnfile) * :<C-U>exe "".(v:count ? v:count : "")."cnfile"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 57
+n  <Plug>(unimpaired-cpfile) * :<C-U>exe "".(v:count ? v:count : "")."cpfile"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 56
+n  <Plug>unimpairedQLast * :<C-U>exe "".(v:count ? v:count : "")."clast"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 50
+n  <Plug>unimpairedQFirst * :<C-U>exe "".(v:count ? v:count : "")."cfirst"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 49
+n  <Plug>unimpairedQNext * :<C-U>exe "".(v:count ? v:count : "")."cnext"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 48
+n  <Plug>unimpairedQPrevious * :<C-U>exe "".(v:count ? v:count : "")."cprevious"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 47
+n  <Plug>(unimpaired-clast) * :<C-U><C-R>=v:count ? v:count . "cc" : "clast"<CR><CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 46
+n  <Plug>(unimpaired-cfirst) * :<C-U><C-R>=v:count ? v:count . "cc" : "cfirst"<CR><CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 45
+n  <Plug>(unimpaired-cnext) * :<C-U>exe "".(v:count ? v:count : "")."cnext"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 44
+n  <Plug>(unimpaired-cprevious) * :<C-U>exe "".(v:count ? v:count : "")."cprevious"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 43
+n  <Plug>unimpairedLNFile * :<C-U>exe "".(v:count ? v:count : "")."lnfile"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 59
+n  <Plug>unimpairedLPFile * :<C-U>exe "".(v:count ? v:count : "")."lpfile"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 58
+n  <Plug>(unimpaired-lnfile) * :<C-U>exe "".(v:count ? v:count : "")."lnfile"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 57
+n  <Plug>(unimpaired-lpfile) * :<C-U>exe "".(v:count ? v:count : "")."lpfile"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 56
+n  <Plug>unimpairedLLast * :<C-U>exe "".(v:count ? v:count : "")."llast"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 50
+n  <Plug>unimpairedLFirst * :<C-U>exe "".(v:count ? v:count : "")."lfirst"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 49
+n  <Plug>unimpairedLNext * :<C-U>exe "".(v:count ? v:count : "")."lnext"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 48
+n  <Plug>unimpairedLPrevious * :<C-U>exe "".(v:count ? v:count : "")."lprevious"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 47
+n  <Plug>(unimpaired-llast) * :<C-U><C-R>=v:count ? v:count . "ll" : "llast"<CR><CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 46
+n  <Plug>(unimpaired-lfirst) * :<C-U><C-R>=v:count ? v:count . "ll" : "lfirst"<CR><CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 45
+n  <Plug>(unimpaired-lnext) * :<C-U>exe "".(v:count ? v:count : "")."lnext"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 44
+n  <Plug>(unimpaired-lprevious) * :<C-U>exe "".(v:count ? v:count : "")."lprevious"<CR>zv
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 43
+n  <Plug>unimpairedBLast * :<C-U>exe "".(v:count ? v:count : "")."blast"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 50
+n  <Plug>unimpairedBFirst * :<C-U>exe "".(v:count ? v:count : "")."bfirst"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 49
+n  <Plug>unimpairedBNext * :<C-U>exe "".(v:count ? v:count : "")."bnext"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 48
+n  <Plug>unimpairedBPrevious * :<C-U>exe "".(v:count ? v:count : "")."bprevious"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 47
+n  <Plug>(unimpaired-blast) * :<C-U><C-R>=v:count ? v:count . "buffer" : "blast"<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 46
+n  <Plug>(unimpaired-bfirst) * :<C-U><C-R>=v:count ? v:count . "buffer" : "bfirst"<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 45
+n  <Plug>(unimpaired-bnext) * :<C-U>exe "".(v:count ? v:count : "")."bnext"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 44
+n  <Plug>(unimpaired-bprevious) * :<C-U>exe "".(v:count ? v:count : "")."bprevious"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 43
+n  <Plug>unimpairedALast * :<C-U>exe "".(v:count ? v:count : "")."last"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 50
+n  <Plug>unimpairedAFirst * :<C-U>exe "".(v:count ? v:count : "")."first"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 49
+n  <Plug>unimpairedANext * :<C-U>exe "".(v:count ? v:count : "")."next"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 48
+n  <Plug>unimpairedAPrevious * :<C-U>exe "".(v:count ? v:count : "")."previous"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 47
+n  <Plug>(unimpaired-last) * :<C-U><C-R>=v:count ? v:count . "argument" : "last"<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 46
+n  <Plug>(unimpaired-first) * :<C-U><C-R>=v:count ? v:count . "argument" : "first"<CR><CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 45
+n  <Plug>(unimpaired-next) * :<C-U>exe "".(v:count ? v:count : "")."next"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 44
+n  <Plug>(unimpaired-previous) * :<C-U>exe "".(v:count ? v:count : "")."previous"<CR>
+	Last set from /nix/store/37mfiqwfxn1bp1ghnilf6chb3qi9px5m-vimplugin-vim-unimpaired-2022-11-21/plugin/unimpaired.vim line 43
+n  <Plug>fugitive: & <Nop>
+	Last set from /nix/store/nwd8m954855yjdv599iibnh10bxl9rz3-vimplugin-vim-fugitive-2025-01-20/plugin/fugitive.vim line 724
+n  <Plug>fugitive:y<C-G> & :<C-U>call setreg(v:register, fugitive#Object(@%))<CR>
+	Last set from /nix/store/nwd8m954855yjdv599iibnh10bxl9rz3-vimplugin-vim-fugitive-2025-01-20/plugin/fugitive.vim line 723
+n  <Plug>PlenaryTestFile * :lua require('plenary.test_harness').test_file(vim.fn.expand("%:p"))<CR>
+	Last set from /nix/store/a7xmrrn18djx317175hz5rybyylki5pf-vimplugin-lua5.1-plenary.nvim-scm-1-unstable-2025-01-12/plugin/plenary.vim line 9
+s  <Plug>luasnip-jump-prev * <Lua 251: /nix/store/9gxk7hbxv82i0lw7fbwy15ila66kc1jn-vimplugin-lua5.1-luasnip-2.3.0-1-unstable-2025-01-04/plugin/luasnip.lua:57>
+                 LuaSnip: Jump to the previous node
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-jump-next * <Lua 250: /nix/store/9gxk7hbxv82i0lw7fbwy15ila66kc1jn-vimplugin-lua5.1-luasnip-2.3.0-1-unstable-2025-01-04/plugin/luasnip.lua:54>
+                 LuaSnip: Jump to the next node
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-prev-choice * <Lua 249: /nix/store/9gxk7hbxv82i0lw7fbwy15ila66kc1jn-vimplugin-lua5.1-luasnip-2.3.0-1-unstable-2025-01-04/plugin/luasnip.lua:51>
+                 LuaSnip: Change to the previous choice from the choiceNode
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-next-choice * <Lua 248: /nix/store/9gxk7hbxv82i0lw7fbwy15ila66kc1jn-vimplugin-lua5.1-luasnip-2.3.0-1-unstable-2025-01-04/plugin/luasnip.lua:48>
+                 LuaSnip: Change to the next choice from the choiceNode
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-expand-snippet * <Lua 247: /nix/store/9gxk7hbxv82i0lw7fbwy15ila66kc1jn-vimplugin-lua5.1-luasnip-2.3.0-1-unstable-2025-01-04/plugin/luasnip.lua:45>
+                 LuaSnip: Expand the current snippet
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <Plug>luasnip-expand-or-jump * <Lua 246: /nix/store/9gxk7hbxv82i0lw7fbwy15ila66kc1jn-vimplugin-lua5.1-luasnip-2.3.0-1-unstable-2025-01-04/plugin/luasnip.lua:42>
+                 LuaSnip: Expand or jump in the current snippet
+	Last set from Lua (run Nvim with -V1 for more details)
+   <Plug>luasnip-expand-repeat * <Lua 244: /nix/store/9gxk7hbxv82i0lw7fbwy15ila66kc1jn-vimplugin-lua5.1-luasnip-2.3.0-1-unstable-2025-01-04/plugin/luasnip.lua:35>
+                 LuaSnip: Repeat last node expansion
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>luasnip-delete-check * <Lua 242: /nix/store/9gxk7hbxv82i0lw7fbwy15ila66kc1jn-vimplugin-lua5.1-luasnip-2.3.0-1-unstable-2025-01-04/plugin/luasnip.lua:28>
+                 LuaSnip: Removes current snippet from jumplist
+	Last set from Lua (run Nvim with -V1 for more details)
+x  <Plug>(MatchitVisualTextObject)   <Plug>(MatchitVisualMultiBackward)o<Plug>(MatchitVisualMultiForward)
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 67
+o  <Plug>(MatchitOperationMultiForward) * :<C-U>call matchit#MultiMatch("W",  "o")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 64
+o  <Plug>(MatchitOperationMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "o")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 63
+x  <Plug>(MatchitVisualMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>m'gv``
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 62
+x  <Plug>(MatchitVisualMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>m'gv``
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 61
+n  <Plug>(MatchitNormalMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 60
+n  <Plug>(MatchitNormalMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 59
+o  <Plug>(MatchitOperationBackward) * :<C-U>call matchit#Match_wrapper('',0,'o')<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 56
+o  <Plug>(MatchitOperationForward) * :<C-U>call matchit#Match_wrapper('',1,'o')<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 55
+x  <Plug>(MatchitVisualBackward) * :<C-U>call matchit#Match_wrapper('',0,'v')<CR>m'gv``
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 54
+x  <Plug>(MatchitVisualForward) * :<C-U>call matchit#Match_wrapper('',1,'v')<CR>:if col("''") != col("$") | exe ":normal! m'" | endif<CR>gv``
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 52
+n  <Plug>(MatchitNormalBackward) * :<C-U>call matchit#Match_wrapper('',0,'n')<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 51
+n  <Plug>(MatchitNormalForward) * :<C-U>call matchit#Match_wrapper('',1,'n')<CR>
+	Last set from /nix/store/g6k5yzipk2ianqxj1d3xj1ab19kc31lf-neovim-unwrapped-0.10.3/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 50
+n  <M-g>       * <Lua 174: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/telescope.lua:58>
+                 [telescope] live grep filetype
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <M-f>       * <Lua 173: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/telescope.lua:68>
+                 [telescope] fuzzy grep filetype
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-G>       * <Lua 158: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [telescope] live grep
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <M-p>       * <Lua 157: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/telescope.nvim/lua/telescope/builtin/init.lua:546>
+                 [telescope] old files
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>(nvim-surround-change-line) * <Lua 132: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-surround/lua/nvim-surround/config.lua:761>
+                 Change a surrounding pair, putting replacements on new lines
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>(nvim-surround-change) * <Lua 130: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-surround/lua/nvim-surround/config.lua:748>
+                 Change a surrounding pair
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>(nvim-surround-delete) * <Lua 129: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-surround/lua/nvim-surround/init.lua:158>
+                 Delete a surrounding pair
+	Last set from Lua (run Nvim with -V1 for more details)
+x  <Plug>(nvim-surround-visual-line) * <Lua 128: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-surround/lua/nvim-surround/config.lua:719>
+                 Add a surrounding pair around a visual selection, on new lines
+	Last set from Lua (run Nvim with -V1 for more details)
+x  <Plug>(nvim-surround-visual) * <Lua 127: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-surround/lua/nvim-surround/config.lua:700>
+                 Add a surrounding pair around a visual selection
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>(nvim-surround-normal-cur-line) * <Lua 126: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-surround/lua/nvim-surround/config.lua:687>
+                 Add a surrounding pair around the current line, on new lines (normal mode)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>(nvim-surround-normal-line) * <Lua 125: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-surround/lua/nvim-surround/config.lua:674>
+                 Add a surrounding pair around a motion, on new lines (normal mode)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>(nvim-surround-normal-cur) * <Lua 124: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-surround/lua/nvim-surround/config.lua:661>
+                 Add a surrounding pair around the current line (normal mode)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Plug>(nvim-surround-normal) * <Lua 122: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-surround/lua/nvim-surround/config.lua:648>
+                 Add a surrounding pair around a motion (normal mode)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-B>       * <C-B>zz
+                 move UP full-page and center
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-F>       * <C-F>zz
+                 move DOWN [f]ull-page and center
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-U>       * <C-U>zz
+                 move [u]p half-page and center
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-D>       * <C-D>zz
+                 move [d]own half-page and center
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-C>       * <Lua 64: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/keymaps.lua:21>
+                 toggle quickfix list
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-S-N>     * <Lua 59: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/harpoon.lua:17>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-S-P>     * <Lua 58: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/harpoon.lua:16>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-`>       * <Lua 57: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/harpoon.lua:13>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-3>       * <Lua 49: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/harpoon.lua:12>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-2>       * <Lua 48: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/harpoon.lua:11>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-1>       * <Lua 47: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/harpoon.lua:10>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-E>       * <Lua 46: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/harpoon.lua:8>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-A>       * <Lua 42: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/harpoon.lua:7>
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <C-O>       * <Lua 154: /nix/store/s8hcqkpq1aszcxv9cxqk0rwrc7i7prmf-nvim-rtp/nvim/plugin/completion.lua:155>
+                 [cmp] lsp
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <C-F>       * <Lua 190: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-cmp/lua/cmp/utils/keymap.lua:133>
+                 cmp.utils.keymap.set_map
+	Last set from Lua (run Nvim with -V1 for more details)
+s  <C-N>       * <Lua 167: /nix/store/i3i73kxci25yvqldhjxm4lbmqfwx71zz-vim-pack-dir/pack/myNeovimPackages/start/nvim-cmp/lua/cmp/utils/keymap.lua:133>
+                 cmp.utils.keymap.set_map
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-W><C-D>    <C-W>d
+                 Show diagnostics under the cursor
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-W>d      * <Lua 16: vim/_defaults.lua:0>
+                 Show diagnostics under the cursor
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <C-L>       * <Cmd>nohlsearch|diffupdate|normal! <C-L><CR>
+                 :help CTRL-L-default
+	Last set from Lua (run Nvim with -V1 for more details)
+
+
+E32: No file name
