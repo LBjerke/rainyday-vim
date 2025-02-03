@@ -18,4 +18,4 @@ telescope.load_extension("whaler")
 
 
 -- Or directly
-vim.keymap.set("n", "<leader>wf", telescope.extensions.whaler.whaler)
+vim.keymap.set("n", "<leader>wtf", telescope.extensions.whaler.whaler)
