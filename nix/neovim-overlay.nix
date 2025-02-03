@@ -98,7 +98,7 @@ with final.pkgs.lib; let
     lua-language-server
     nil # nix LSP
   haskell.compiler.ghc981 # haskell compiler 9.10.1
-  playerctl
+#  playerctl
   haskell.packages.ghc981.haskell-language-server # lsp 9.10.1
   haskellPackages.cabal-fmt
   ormolu
