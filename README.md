@@ -91,7 +91,7 @@ If you have Nix installed (with [flakes](https://wiki.nixos.org/wiki/Flakes) ena
 you can test drive this by running:
 
 ```console
-nix run "github:nix-community/kickstart-nix.nvim"
+nix run "github:LBjerke/rainday-vim"
 ```
 
 ## :books: Usage
