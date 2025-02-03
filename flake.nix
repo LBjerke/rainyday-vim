@@ -12,6 +12,10 @@
        url = "github:LBjerke/music-controls.nvim";
        flake = false;
      };
+     whaler = {
+       url = "github:SalOrak/whaler.nvim";
+       flake = false;
+     };
   };
 
   outputs = inputs @ {
@@ -43,7 +47,6 @@
         buildInputs = with pkgs; [
           # Tools for Lua and Nix development, useful for editing files in this repo
           lua-language-server
-        #  playerctl
           nil
           stylua
           luajitPackages.luacheck

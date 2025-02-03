@@ -88,8 +88,10 @@ with final.pkgs.lib; let
     # ^ libraries that other plugins depend on
     # bleeding-edge plugins from flake inputs
     (mkNvimPlugin inputs.music-controls "music-controls")
+    (mkNvimPlugin inputs.whaler "whaler")
     # ^ bleeding-edge plugins from flake inputs
     which-key-nvim
+    oil-nvim
 
   ];
 
@@ -128,7 +130,7 @@ with final.pkgs.lib; let
   cmake
   ripgrep
   # Music
-  #playerctl
+  playerctl
 
   ];
 in {
