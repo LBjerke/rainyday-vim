@@ -216,7 +216,8 @@
         "flake-utils": "flake-utils",
         "gen-luarc": "gen-luarc",
         "music-controls": "music-controls",
-        "nixpkgs": "nixpkgs_2"
+        "nixpkgs": "nixpkgs_2",
+        "whaler": "whaler"
       }
     },
     "systems": {
@@ -231,6 +232,22 @@
       "original": {
         "owner": "nix-systems",
         "repo": "default",
+        "type": "github"
+      }
+    },
+    "whaler": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1704281882,
+        "narHash": "sha256-1s6XGi4xIuWZv+2Q1++sdg1HvBkhR0A/4GJoMXDA+QY=",
+        "owner": "SalOrak",
+        "repo": "whaler.nvim",
+        "rev": "9e0b67e36250cb80e679563adcd4b7451eae26b2",
+        "type": "github"
+      },
+      "original": {
+        "owner": "SalOrak",
+        "repo": "whaler.nvim",
         "type": "github"
       }
     }
