@@ -1,3 +1,4 @@
+require("whaler").setup()
 -- Telescope setup()
 local telescope = require('telescope')
 
