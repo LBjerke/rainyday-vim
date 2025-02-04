@@ -69,7 +69,7 @@ local function fuzzy_grep_current_file_type()
   grep_current_file_type(fuzzy_grep)
 end
 
-vim.keymap.set('n', '<leader>tp', function()
+vim.keymap.set('n', '<leader>qp', function()
   builtin.find_files()
 end, { desc = '[t]elescope find files - ctrl[p] style' })
 vim.keymap.set('n', '<M-p>', builtin.oldfiles, { desc = '[telescope] old files' })
@@ -148,12 +148,21 @@ telescope.setup {
     },
   },
   extensions = {
+    whaler = {
+      -- Whaler configuration
+      directories = { "~/Code", { path = "/etc/nix/", alias = "nix" } },
+      -- You may also add directories that will not be searched for subdirectories
+      -- oneoff_directories = { "path/to/project/folder",  { path = "path/to/another/project", alias = "Project Z" } },
+    },
+
     fzy_native = {
       override_generic_sorter = false,
       override_file_sorter = true,
     },
   },
 }
-
+-- Or directly
+telescope.load_extension("whaler")
+vim.keymap.set("n", "<leader>ww", telescope.extensions.whaler.whaler)
 telescope.load_extension('fzy_native')
 -- telescope.load_extension('smart_history')
