@@ -211,12 +211,29 @@
         "type": "github"
       }
     },
+    "pomo": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1722376269,
+        "narHash": "sha256-tJ2TrypKnCnQm+6FDjX0KDr+UNoBBVvGIm+uWJtpNLc=",
+        "owner": "epwalsh",
+        "repo": "pomo.nvim",
+        "rev": "aa8decc421d89be0f10b1fc6a602cdd269f350ff",
+        "type": "github"
+      },
+      "original": {
+        "owner": "epwalsh",
+        "repo": "pomo.nvim",
+        "type": "github"
+      }
+    },
     "root": {
       "inputs": {
         "flake-utils": "flake-utils",
         "gen-luarc": "gen-luarc",
         "music-controls": "music-controls",
         "nixpkgs": "nixpkgs_2",
+        "pomo": "pomo",
         "whaler": "whaler"
       }
     },

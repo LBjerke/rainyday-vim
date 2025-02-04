@@ -16,6 +16,10 @@
        url = "github:SalOrak/whaler.nvim";
        flake = false;
      };
+     pomo = {
+       url = "github:epwalsh/pomo.nvim";
+       flake = false;
+     };
   };
 
   outputs = inputs @ {

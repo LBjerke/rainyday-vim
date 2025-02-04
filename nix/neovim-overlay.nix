@@ -83,12 +83,12 @@ with final.pkgs.lib; let
     # markdown
     obsidian-nvim
     # opther
-    pomo-nvim
     nvim-notify
     # ^ libraries that other plugins depend on
     # bleeding-edge plugins from flake inputs
     (mkNvimPlugin inputs.music-controls "music-controls")
     (mkNvimPlugin inputs.whaler "whaler")
+    (mkNvimPlugin inputs.pomo "pomo")
     # ^ bleeding-edge plugins from flake inputs
     which-key-nvim
     oil-nvim
