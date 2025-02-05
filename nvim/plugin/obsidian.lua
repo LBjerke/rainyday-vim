@@ -1,6 +1,6 @@
 require("obsidian").setup({
   config = {
-    workspace = {
+    workspaces = {
       {
         name = "personal",
         path = "~/Code/vaults/personal",
