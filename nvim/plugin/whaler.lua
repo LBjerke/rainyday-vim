@@ -7,6 +7,7 @@ telescope.setup({
     whaler = {
       -- Whaler configuration
       directories = { "~/Code", "~/Code/RainyDay", { path = "/etc/nixos/", alias = "nix" } },
+      file_explorer = "oil",
       -- You may also add directories that will not be searched for subdirectories
       -- oneoff_directories = { "path/to/project/folder",  { path = "path/to/another/project", alias = "Project Z" } },
     }
