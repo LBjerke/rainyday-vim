@@ -252,6 +252,6 @@ in {
        "^plugin/music.lua"
        "^plugin/obsidian-nvim"
      ];
-     inherit extraPackages;
+     inherit extraPackagesMac;
    };
 }
