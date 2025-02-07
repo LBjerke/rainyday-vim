@@ -66,7 +66,7 @@
     in {
       packages = rec {
         default = nvim;
-        nvim = pkgs.nvim-mac-pkg;
+        nvim = pkgs.nvim-mac;
       };
       devShells = {
         default = shell;

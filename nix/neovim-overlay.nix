@@ -150,7 +150,7 @@ with final.pkgs.lib; let
     # themes
     bamboo-nvim
     # markdown
-    #obsidian-nvim
+    obsidian-nvim
     # opther
     nvim-notify
     # ^ libraries that other plugins depend on
@@ -246,12 +246,13 @@ in {
   #
   # For example:
   #
-  nvim-mac-pkg = mkNeovim {
-     plugins = all-plugins-mac;
+  nvim-mac = mkNeovim {
+    plugins = all-plugins-mac;
+    appName = "nvim-mac";
      ignoreConfigRegexes = [
        "^plugin/music.lua"
        "^plugin/obsidian-nvim"
      ];
-     inherit extraPackagesMac;
+     extraPackages = extraPackagesMac;
    };
 }
