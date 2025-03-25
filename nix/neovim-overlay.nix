@@ -173,6 +173,8 @@ with final.pkgs.lib; let
   gopls
   # Others
   cacert 
+  terraform
+  terrafom-ls
   git 
   hostname 
   cmake
