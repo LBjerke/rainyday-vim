@@ -60,11 +60,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1724097937,
-        "narHash": "sha256-Q4tgm8ZHAQUdvsNft86MqIbHQAm7OF7RT/wwYWXqSdY=",
+        "lastModified": 1755304025,
+        "narHash": "sha256-xVKfjFwc0zMbLMjLTiHz+0llggkjs93SmHkhaa9S3M4=",
         "owner": "mrcjkb",
         "repo": "nix-gen-luarc-json",
-        "rev": "b36b69c4ded9f31b079523bc452e23458734cf00",
+        "rev": "1865b0ebb753ae5324d7381b1fa8c98c04ec7509",
         "type": "github"
       },
       "original": {
@@ -197,11 +197,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1738142207,
-        "narHash": "sha256-NGqpVVxNAHwIicXpgaVqJEJWeyqzoQJ9oc8lnK9+WC4=",
+        "lastModified": 1763421233,
+        "narHash": "sha256-Stk9ZYRkGrnnpyJ4eqt9eQtdFWRRIvMxpNRf4sIegnw=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "9d3ae807ebd2981d593cddd0080856873139aa40",
+        "rev": "89c2b2330e733d6cdb5eae7b899326930c2c0648",
         "type": "github"
       },
       "original": {
@@ -255,11 +255,11 @@
     "whaler": {
       "flake": false,
       "locked": {
-        "lastModified": 1704281882,
-        "narHash": "sha256-1s6XGi4xIuWZv+2Q1++sdg1HvBkhR0A/4GJoMXDA+QY=",
+        "lastModified": 1745698008,
+        "narHash": "sha256-dgMqfoA7BUzJ/6t+oRPIS4gEElc9PVNKhFrbsZUs/Pw=",
         "owner": "SalOrak",
         "repo": "whaler.nvim",
-        "rev": "9e0b67e36250cb80e679563adcd4b7451eae26b2",
+        "rev": "b3a4257f6225a9a6c42f33b56ca316325e395f22",
         "type": "github"
       },
       "original": {

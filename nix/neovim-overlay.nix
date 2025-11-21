@@ -183,12 +183,6 @@ with final.pkgs.lib; let
     # language servers, etc.
     lua-language-server
     nil # nix LSP
-  # Libraries
-  pkg-config 
-  z3 
-  zlib 
-  blas  
-  lapack
   # Golang
   go
   gopls
