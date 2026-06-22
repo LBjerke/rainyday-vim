@@ -135,22 +135,6 @@
         "type": "github"
       }
     },
-    "music-controls": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1738533566,
-        "narHash": "sha256-bWcoIml5ihD9cve1wI66Kcq7mq8Hda9pHXP5UpnaBYU=",
-        "owner": "LBjerke",
-        "repo": "music-controls.nvim",
-        "rev": "b71452e1e5edfa6330b3605d69e0c2b5bbe07891",
-        "type": "github"
-      },
-      "original": {
-        "owner": "LBjerke",
-        "repo": "music-controls.nvim",
-        "type": "github"
-      }
-    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1718714799,
@@ -197,11 +181,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1763421233,
-        "narHash": "sha256-Stk9ZYRkGrnnpyJ4eqt9eQtdFWRRIvMxpNRf4sIegnw=",
+        "lastModified": 1781577229,
+        "narHash": "sha256-lrp67w8AulE9Ks53n27I45ADSzbOCn4H+CNW1Ck8B+8=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "89c2b2330e733d6cdb5eae7b899326930c2c0648",
+        "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
         "type": "github"
       },
       "original": {
@@ -211,30 +195,11 @@
         "type": "github"
       }
     },
-    "pomo": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1722376269,
-        "narHash": "sha256-tJ2TrypKnCnQm+6FDjX0KDr+UNoBBVvGIm+uWJtpNLc=",
-        "owner": "epwalsh",
-        "repo": "pomo.nvim",
-        "rev": "aa8decc421d89be0f10b1fc6a602cdd269f350ff",
-        "type": "github"
-      },
-      "original": {
-        "owner": "epwalsh",
-        "repo": "pomo.nvim",
-        "type": "github"
-      }
-    },
     "root": {
       "inputs": {
         "flake-utils": "flake-utils",
         "gen-luarc": "gen-luarc",
-        "music-controls": "music-controls",
-        "nixpkgs": "nixpkgs_2",
-        "pomo": "pomo",
-        "whaler": "whaler"
+        "nixpkgs": "nixpkgs_2"
       }
     },
     "systems": {
@@ -249,22 +214,6 @@
       "original": {
         "owner": "nix-systems",
         "repo": "default",
-        "type": "github"
-      }
-    },
-    "whaler": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1745698008,
-        "narHash": "sha256-dgMqfoA7BUzJ/6t+oRPIS4gEElc9PVNKhFrbsZUs/Pw=",
-        "owner": "SalOrak",
-        "repo": "whaler.nvim",
-        "rev": "b3a4257f6225a9a6c42f33b56ca316325e395f22",
-        "type": "github"
-      },
-      "original": {
-        "owner": "SalOrak",
-        "repo": "whaler.nvim",
         "type": "github"
       }
     }

@@ -5,28 +5,12 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     gen-luarc.url = "github:mrcjkb/nix-gen-luarc-json";
-
-    # Add bleeding-edge plugins here.
-    # They can be updated with `nix flake update` (make sure to commit the generated flake.lock)
-     music-controls = {
-       url = "github:LBjerke/music-controls.nvim";
-       flake = false;
-     };
-     whaler = {
-       url = "github:SalOrak/whaler.nvim";
-       flake = false;
-     };
-     pomo = {
-       url = "github:epwalsh/pomo.nvim";
-       flake = false;
-     };
   };
 
   outputs = inputs @ {
     self,
     nixpkgs,
     flake-utils,
-    music-controls,
     ...
   }: let
     systems = builtins.attrNames nixpkgs.legacyPackages;
