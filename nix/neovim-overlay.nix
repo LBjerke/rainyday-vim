@@ -20,16 +20,7 @@ with final.pkgs.lib; let
   # }
   all-plugins = with pkgs.vimPlugins; [
     (nvim-treesitter.withPlugins (p: [ p.zig p.go p.nix p.lua p.vim ]))
-    luasnip
-    nvim-cmp
-    cmp_luasnip
-    lspkind-nvim
-    cmp-nvim-lsp
-    cmp-nvim-lsp-signature-help
-    cmp-buffer
-    cmp-path
-    cmp-cmdline
-    cmp-cmdline-history
+    blink-cmp
     harpoon2
     gitsigns-nvim
     telescope-nvim
@@ -47,20 +38,10 @@ with final.pkgs.lib; let
     bamboo-nvim
     which-key-nvim
     oil-nvim
-    sidekick-nvim
   ];
   all-plugins-mac = with pkgs.vimPlugins; [
     (nvim-treesitter.withPlugins (p: [ p.zig p.go p.nix p.lua p.vim ]))
-    luasnip
-    nvim-cmp
-    cmp_luasnip
-    lspkind-nvim
-    cmp-nvim-lsp
-    cmp-nvim-lsp-signature-help
-    cmp-buffer
-    cmp-path
-    cmp-cmdline
-    cmp-cmdline-history
+    blink-cmp
     harpoon2
     gitsigns-nvim
     telescope-nvim
@@ -78,7 +59,6 @@ with final.pkgs.lib; let
     bamboo-nvim
     which-key-nvim
     oil-nvim
-    sidekick-nvim
   ];
 
   extraPackagesMac = with pkgs; [
